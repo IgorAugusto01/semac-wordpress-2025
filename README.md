@@ -6,7 +6,7 @@
 **Repositório oficial do minicurso de WordPress**  
 *Universidade Federal de Sergipe (UFS)* 🚀
 
-[📊 Slides](#-slides) • [💻 Projeto](#-projeto) • [🚀 Materiais](#-materiais) • [📝 Licença](#-licença)
+
 
 </div>
 
