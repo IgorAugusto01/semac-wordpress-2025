@@ -1,6 +1,6 @@
-# 📚 SEMAC XI UFS - Construção de Websites com WordPress 🖥️
+#  SEMAC XI UFS - Construção de Websites com WordPress 
 
-<div align="center">
+<section align="center">
   
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-%23D30C5C.svg?style=for-the-badge&logo=Elementor&logoColor=white)
@@ -11,7 +11,7 @@
 
 [📊 Slides](#-slides) • [💻 Projeto](#-projeto) • [🚀 Materiais](#-materiais) • [📝 Licença](#-licença)
 
-</div>
+</section>
 
 ---
 
